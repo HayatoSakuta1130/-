@@ -12,7 +12,7 @@ int main()
 
 	std::cout << "‚±‚ñ‚É‚¿ƒƒbƒT[" << std::endl;
 
-
+	int a, b = 0;
 
 	return 0;
 
