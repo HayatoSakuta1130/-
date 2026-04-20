@@ -8,6 +8,10 @@ int main()
 
 	std::cout << "こんにちワッサー" << std::endl;
 
+	std::cout << "こんにちワッサー" << std::endl;
+
+
+
 	return 0;
 
 }
